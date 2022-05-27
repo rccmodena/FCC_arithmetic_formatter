@@ -68,7 +68,7 @@ The unit tests for this project are in test_module.py. We are running the tests 
 
 ## Submitting
 
-Solution link: ...
+Solution link: [Replit](https://replit.com/@RudiModena/boilerplate-arithmetic-formatter#arithmetic_arranger.py)
 
 ## LICENSE
 
